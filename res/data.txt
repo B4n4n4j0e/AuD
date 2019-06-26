@@ -1,0 +1,8 @@
+6.0;Fässla;Kellerbier
+5.1;Schlenkerla;Märzen
+5.1;Schlenkerla;Hell
+5.1;Mahrs;Kellerbier
+4.9;WildeRose;Kellerbier
+4.9;Greifenklau;Lager
+4.7;Spezial;Rauchbier
+4.7;Keesmann;Pils
